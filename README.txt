@@ -7,10 +7,12 @@ Requirements:
 python3.x and youtube-dl with ffmpeg installed, Linux distro, Ubuntu 16.04+ was tested.
 Extract the zip to a folder, and then to run program: Python3 avd.py
 
+
 Install and use:
 
-#1. download or clone this repo.
-#2. In the "pavd" directory, create
+#1. Download or clone this repo.
+#2. Add the desired link to the frist collumn the /datastore/titles.csv
+#2. To run, navigate to the pavd directory and run: $~/: python3 avd.py
 
 
 DUE to issues with youtube-dl 4-2019+ follow the below steps to install the patched version.
